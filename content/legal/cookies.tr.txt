@@ -1,0 +1,63 @@
+# Çerez Politikası
+## Çerez Politikası
+‘ÖZTEKNİK MOT. TAŞ. VE MAK. SAN. TİC. A. Ş. ‘(“ŞİRKET” veya olarak anılacaktır) olarak http://www.ozteknikoto.com/tr web sitesinde (“Site”), sitenin uzantılarında, uygulamalarımız yahut dijital ortamda sizlerin kullanımına sunduğumuz benzeri tüm çevrimiçi veya çevrimdışı mecralarımızı (anılan tüm mecralar birlikte “Platform” olarak anılacaktır.) kullanımınız veya ziyaretiniz sırasında sizlerin deneyimini geliştirmek için çerezler, birtakım teknolojilerden (“çerezler”) faydalanmaktayız.
+Bu teknolojilerin kullanımı başta 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK” veya “Kanun”) olmak üzere tabi olduğumuz mevzuata uygun şekilde gerçekleştirilmektedir.
+İşbu Çerez Politikası’ nın amacı, Platformların kullanımı esnasında kullanılmakta olan çerezler kullanılarak kişisel verilerin işlenmesi nedeniyle elde edilen kişisel verilere ilişkin sizlere bilgi vermektir.
+İşbu metinde sitemizde ve uygulamalarımızda hangi amaçlarla hangi tür çerezleri kullandığımızı ve bu çerezleri nasıl kontrol edebileceğinizi sizlere açıklamak istiyoruz.
+Şirket olarak sitemizde ve uygulamalarımızda kullandığımız çerezleri gerekmesi durumunda kullanmaktan vazgeçebilir, bunların türlerini veya fonksiyonlarını değiştirebilir veya sitemize ve uygulamalarımızda yeni çerezler ekleyebiliriz.
+Dolayısıyla işbu Çerez Politikası’nın hükümlerini dilediğimiz zaman değiştirme hakkını saklı tutarız. Güncel Çerez Politikası üzerinde gerçekleştirilmiş olan her türlü değişiklik sitede, uygulamada veya herhangi bir kamuya açık mecrada yayınlanmakla birlikte yürürlük kazanacaktır. Son güncelleme tarihini metnin sonunda bulabilirsiniz.
+## Kişisel Veri Toplamanın Yöntemi ve Hukuki Sebebi
+Kişisel verileriniz, internet sitemizi ziyaretiniz kapsamında veya uygulamalarımızı kullanmanız dolayısıyla elektronik ortamda çerezler yoluyla Şirketimizin meşru menfaati hukuki sebebine dayalı olarak toplanmaktadır.
+Hedefleme ve profilleme vasıtasıyla gerçekleştirilen tanıtım faaliyetleri ise yalnızca açık rızanız olması halinde gerçekleştirilmektedir. Toplanan kişisel verileriniz Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları kapsamında işbu Çerez Politikası’nda belirtilen amaçlarla da işlenebilmektedir.
+## Kişisel Verilerin Kimlere ve Hangi Amaçla Aktarılabileceği
+Şirket olarak, Çerez Politikası kapsamındaki kişisel verilerinizi yukarıda belirtilen amaçların gerçekleştirilebilmesi ile sınırlı olarak ve mevzuata uygun şekilde, kanunen yetkili kamu kurumlarıyla paylaşabiliriz.
+## Hangi Çerezler Hangi Amaçlarla Kullanılmaktadır?
+ŞİRKET olarak sitemizde ve uygulamalarımızda çeşitli amaçlarla çerezler kullanmakta ve bu çerezler vasıtasıyla kişisel verilerinizi işlemekteyiz. Bu amaçlar başlıca şunlardır:
+• Site’nin ve uygulamaların çalışması için gerekli temel fonksiyonları gerçekleştirmektir. Örneğin, oturum açan üyelerin Site’de farklı sayfaları ziyaret ederken tekrar şifre girmelerine gerek kalmaması,
+• Site’yi ve uygulamaları analiz etmek, Site’nin ve uygulamaların performansını arttırmaktır. Örneğin, Site’nin üzerinde çalıştığı farklı sunucuların entegrasyonu, Site’yi ziyaret edenlerin sayısının tespit edilmesi ve buna göre performans ayarlarının yapılması ya da ziyaretçilerin aradıklarını bulmalarının kolaylaştırılması,
+• Site’nin ve uygulamaların işlevselliğini arttırmak ve kullanım kolaylığı sağlamaktır. Örneğin, Site’yi ziyaret eden ziyaretçinin daha sonraki ziyaretinde kullanıcı adı bilgisinin ya da arama sorgularının hatırlanması,
+• Kişiselleştirme, hedefleme ve reklamcılık faaliyeti gerçekleştirmektir. Örneğin, ziyaretçilerin görüntüledikleri sayfa ve ürünler üzerinden ziyaretçilerin ilgi alanlarıyla bağlantılı reklam gösterilmesi.
+## Sitemizde ve Uygulamalarımızda Kullanılan Çerezler
+Aşağıda sitemizde ve uygulamalarımızda kullandığımız farklı türdeki çerezleri bulabilirsiniz. Sitemizde ve uygulamalarımızda hem birinci parti çerezler (ziyaret ettiğiniz site tarafından yerleştirilen) hem de üçüncü parti çerezleri (ziyaret ettiğiniz site haricindeki sunucular tarafından yerleştirilen) kullanılmaktadır.
+## Zorunlu Çerezler
+Belli çerezlerin kullanımı sitemizin ve uygulamalarımızın doğru biçimde çalışması için zorunludur. Örneğin sitemizde oturum açtığınızda devreye giren kimlik doğrulama çerezleri, sitemizde bir sayfadan diğerine geçişinizde etkin olan oturumunuzun devam etmesini sağlamaktadır.
+## Tercih Çerezleri
+Bu çerezler sizlerin site ve uygulama üzerindeki tercihlerini ve seçimlerinizi hatırlayarak sitemizde sunulan hizmetlerin sizin için kişiselleşmesini sağlamaktadır. Örneğin sitemiz üzerindeki dil seçiminizi veya bir metin okurken seçmiş olduğunuz font boyutunu hatırlamamızı sağlar.
+## Çerezlerin Kullanımını Nasıl Kontrol Edebilirim?
+Çerez ve benzeri teknolojilerin kullanımı konusunda ziyaretçi ve kullanıcılarımızın tercihleri bizler için esastır. Buna karşın, Platform’un çalışması için zorunlu olan Çerezler’in kullanılması gerekmektedir. Ek olarak bazı çerezlerin kapatılması halinde Platform’un birtakım işlevlerinin kısmen ya da tamamen çalışmayabileceğini hatırlatmak isteriz.
+Platform’da kullanılan çerezlere dair tercihlerinizi ne şekilde yönetebileceğinize ilişkin bilgiler aşağıdaki gibidir:
+• Ziyaretçiler, Platform’u görüntüledikleri tarayıcı ayarlarını değiştirerek çerezlere ilişkin tercihlerini kişiselleştirme imkânına sahiptir.
+• Eğer kullanılmakta olan tarayıcı bu imkânı sunmaktaysa, tarayıcı ayarları üzerinden çerezlere ilişkin tercihleri değiştirmek mümkündür.
+• Böylelikle, tarayıcının sunmuş olduğu imkânlara göre farklılık gösterebilmekle birlikte, veri sahiplerinin çerezlerin kullanılmasını engelleme, çerez kullanılmadan önce uyarı almayı tercih etme veya sadece bazı çerezleri devre bırakma ya da silme imkânları bulunmaktadır.
+• Bu konudaki tercihler kullanılan tarayıcıya göre değişiklik göstermekle birlikte genel açıklamaya https://www.aboutcookies.org/ adresinden ulaşmak mümkündür.
+• Çerezlere ilişkin tercihlerin, ziyaretçinin Platform’a erişim sağladığı her bir cihaz özelinde ayrı ayrı yapılması gerekebilecektir.
+• Google Analytics tarafından yönetilen çerezleri kapatmak için tıklayınız.
+• Google tarafından sağlanan kişiselleştirilmiş reklam deneyimini yönetmek için tıklayınız.
+• Birçok firmanın reklam faaliyetleri için kullandığı çerezler bakımından tercihler Your Online Choices üzerinden yönetilebilir.
+• Mobil cihazlar üzerinden çerezleri yönetmek için mobil cihaza ait ayarlar menüsü kullanılabilir.
+• Tarayıcınızın ayarlarını değiştirerek çerezlere ilişkin tercihlerinizi kişiselleştirme imkânına sahipsiniz.
+Tarayıcı/PlatformLink
+Adobe Analyticshttp://www.adobe.com/uk/privacy/opt-out.html
+AOLhttps://help.aol.com/articles/restore-security-settings-and-enable-cookie-settings-on-browser
+Google Adwordshttps://support.google.com/ads/answer/2662922?hl=tr
+Google Analyticshttps://tools.google.com/dlpage/gaoptout
+Google Chromehttp://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647
+Internet Explorerhttps://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+Mozilla Firefoxhttp://support.mozilla.com/en-US/kb/Cookies
+Operahttp://www.opera.com/browser/tutorials/security/privacy/
+Safarihttps://support.apple.com/kb/ph19214?locale=tr_TR
+## Veri Sahibi Olarak Haklarınız Nelerdir?
+KVK Kanunu’nun 11. maddesi uyarınca veri sahipleri,
+• Kişisel veri işlenip işlenmediğini öğrenme,
+• Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+• Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+• Yurt içinde kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+• Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+• KVK Kanunu ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerin silinmesini veya yok edilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+• İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+• Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme,
+haklarına sahiptir.
+Yukarıda sıralanan haklarınızla ilgili başvurularınızı kurumsal@ozteknikoto.com mail adresinden iletebilirsiniz. Talebiniz 30 gün içinde sonuçlandırılarak cevap iletilecektir.
+Talepler kural olarak ücretsiz karşılanır ancak, talebin gereğini yerine getirmek masraf gerektiriyorsa “Veri Sorumlusuna Başvuru Usul ve Esasları Hk. Tebliğ” madde 7’de öngörülen;
+“İlgili kişinin başvurusuna yazılı olarak cevap verilecekse, 10 sayfaya kadar ücret alınmaz. 10 sayfanın üzerindeki her sayfa için 1 TL işlem ücreti alınabilir. Başvuruya cevabın CD, flash bellek gibi bir kayıt ortamında verilmesi halinde veri sorumlusu tarafından talep edilebilecek ücret kayıt ortamının maliyetini geçemez.”
+Hükmü gereğince ŞİRKET tarafından ücret istenebilecektir.

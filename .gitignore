@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+.next/
+out/
+.vercel/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+next-env.d.ts
+# ham API dökümü (yeniden üretilebilir: npm run migrate:fetch)
+data/raw/
+# çalışma veritabanı (yeniden üretilebilir: npm run db:seed)
+data/*.db
+data/*.db-*
+# indirilen ürün görselleri önbelleği (kaynak: data/media-map.json)
+media-cache/
+qa-shots/
+data/uploads/
+public/[a-f0-9]*.txt

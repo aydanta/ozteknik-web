@@ -1,0 +1,170 @@
+{
+  "_note": "Katalog sözlüğü — 18 kategori. Marka kategoriye göre denetlenir (şartname: 'Tek marka; kategoriye göre denetlenir'). Ürün tipi adları başlık formülüne girer; sektör editörü onayı bekler (8 dil). legacy: eski WP kategori slug'ları (tüm diller) → 301.",
+  "brands": {
+    "egerot": { "name": "EGEROT", "line": { "en": "Steering & suspension", "tr": "Direksiyon ve süspansiyon", "de": "Lenkung & Federung", "fr": "Direction & suspension", "es": "Dirección y suspensión", "it": "Sterzo e sospensioni", "ru": "Рулевое управление и подвеска", "ar": "التوجيه والتعليق" }, "legacyHosts": ["egerot.com", "www.egerot.com"] },
+    "hydcab": { "name": "HYDCAB", "line": { "en": "Cab tilting hydraulics", "tr": "Kabin hidroliği", "de": "Fahrerhaus-Kipphydraulik", "fr": "Hydraulique de basculement de cabine", "es": "Hidráulica de basculación de cabina", "it": "Idraulica ribaltamento cabina", "ru": "Гидравлика опрокидывания кабины", "ar": "هيدروليك رفع الكابينة" }, "legacyHosts": ["hydcab.com", "www.hydcab.com"] },
+    "revol": { "name": "REVOL", "line": { "en": "Clutch systems", "tr": "Debriyaj sistemleri", "de": "Kupplungssysteme", "fr": "Systèmes d'embrayage", "es": "Sistemas de embrague", "it": "Sistemi frizione", "ru": "Системы сцепления", "ar": "أنظمة القابض" }, "legacyHosts": ["revolclutch.com", "www.revolclutch.com"] }
+  },
+  "categories": [
+    {
+      "key": "torque-rod", "brand": "egerot", "drawing": "2024/11/TORQUE-ROD.png", "size": ["tube", "length"],
+      "fields": ["tube", "length", "cone"],
+      "one": { "en": "Torque Rod", "tr": "Tork Kolu", "de": "Achsstrebe", "fr": "Barre de réaction", "es": "Barra de reacción", "it": "Barra di reazione", "ru": "Реактивная тяга", "ar": "ذراع عزم الدوران" },
+      "many": { "en": "Torque Rods", "tr": "Tork Kolları", "de": "Achsstreben", "fr": "Barres de réaction", "es": "Barras de reacción", "it": "Barre di reazione", "ru": "Реактивные тяги", "ar": "أذرع عزم الدوران" },
+      "slug": { "en": "torque-rods", "tr": "tork-kollari", "de": "achsstreben", "fr": "barres-de-reaction", "es": "barras-de-reaccion", "it": "barre-di-reazione", "ru": "reaktivnye-tyagi", "ar": "torque-rods" },
+      "legacy": ["torque-rod", "tork-kolu", "braccio-di-coppia"]
+    },
+    {
+      "key": "v-stay", "brand": "egerot", "drawing": "2024/11/V-Stay.png", "size": ["tube", "length"],
+      "fields": ["tube", "length", "cone"],
+      "one": { "en": "V-Stay", "tr": "V Kol", "de": "Dreieckslenker", "fr": "Bras en V", "es": "Brazo en V", "it": "Braccio a V", "ru": "V-образная тяга", "ar": "ذراع على شكل V" },
+      "many": { "en": "V-Stays", "tr": "V Kollar", "de": "Dreieckslenker", "fr": "Bras en V", "es": "Brazos en V", "it": "Bracci a V", "ru": "V-образные тяги", "ar": "أذرع على شكل V" },
+      "slug": { "en": "v-stays", "tr": "v-kollar", "de": "dreieckslenker", "fr": "bras-en-v", "es": "brazos-en-v", "it": "bracci-a-v", "ru": "v-obraznye-tyagi", "ar": "v-stays" },
+      "legacy": ["v-stay", "v-kol"]
+    },
+    {
+      "key": "tie-rod", "brand": "egerot", "drawing": "2024/11/TIE-ROD-ASSY.png", "size": ["tube", "length"],
+      "fields": ["tube", "length", "cone"],
+      "one": { "en": "Tie Rod", "tr": "Rot Kolu", "de": "Spurstange", "fr": "Barre d'accouplement", "es": "Barra de dirección", "it": "Barra sterzo", "ru": "Рулевая тяга", "ar": "ذراع التوجيه" },
+      "many": { "en": "Tie Rods", "tr": "Rot Kolları", "de": "Spurstangen", "fr": "Barres d'accouplement", "es": "Barras de dirección", "it": "Barre sterzo", "ru": "Рулевые тяги", "ar": "أذرع التوجيه" },
+      "slug": { "en": "tie-rods", "tr": "rot-kollari", "de": "spurstangen", "fr": "barres-d-accouplement", "es": "barras-de-direccion", "it": "barre-sterzo", "ru": "rulevye-tyagi", "ar": "tie-rods" },
+      "legacy": ["tie-rod-assy", "rot-kolu", "spurstange", "tirante", "braccio-di-rotta"]
+    },
+    {
+      "key": "rod-end", "brand": "egerot", "drawing": "2024/11/ROD-END.png", "size": ["thread"],
+      "fields": ["thread", "length", "cone", "outerDiameter", "tube", "holeAxis", "holeDiameter", "thickness"],
+      "one": { "en": "Tie Rod End", "tr": "Rot Başı", "de": "Spurstangenkopf", "fr": "Rotule de direction", "es": "Rótula de dirección", "it": "Testina sterzo", "ru": "Наконечник рулевой тяги", "ar": "طرف ذراع التوجيه" },
+      "many": { "en": "Tie Rod Ends", "tr": "Rot Başları", "de": "Spurstangenköpfe", "fr": "Rotules de direction", "es": "Rótulas de dirección", "it": "Testine sterzo", "ru": "Наконечники рулевых тяг", "ar": "أطراف أذرع التوجيه" },
+      "slug": { "en": "tie-rod-ends", "tr": "rot-baslari", "de": "spurstangenkoepfe", "fr": "rotules-de-direction", "es": "rotulas-de-direccion", "it": "testine-sterzo", "ru": "nakonechniki-rulevyh-tyag", "ar": "tie-rod-ends" },
+      "legacy": ["rod-end", "rot-basi", "spurstangenkopf", "rotula", "testa-di-rotta"]
+    },
+    {
+      "key": "stabilizer-link", "brand": "egerot", "drawing": "2024/11/STABILIZER.png", "size": ["tube", "length"],
+      "fields": ["tube", "length", "cone"],
+      "one": { "en": "Stabilizer Link", "tr": "Stabilizatör Rotu", "de": "Stabilisatorstrebe", "fr": "Biellette de stabilisateur", "es": "Bieleta de estabilizadora", "it": "Biella barra stabilizzatrice", "ru": "Тяга стабилизатора", "ar": "وصلة عمود التوازن" },
+      "many": { "en": "Stabilizer Links", "tr": "Stabilizatör Rotları", "de": "Stabilisatorstreben", "fr": "Biellettes de stabilisateur", "es": "Bieletas de estabilizadora", "it": "Bielle barra stabilizzatrice", "ru": "Тяги стабилизатора", "ar": "وصلات عمود التوازن" },
+      "slug": { "en": "stabilizer-links", "tr": "stabilizator-rotlari", "de": "stabilisatorstreben", "fr": "biellettes-de-stabilisateur", "es": "bieletas-de-estabilizadora", "it": "bielle-stabilizzatrice", "ru": "tyagi-stabilizatora", "ar": "stabilizer-links" },
+      "legacy": ["stabilizer", "stabilizzatore"]
+    },
+    {
+      "key": "repair-kit", "brand": "egerot", "drawing": null, "size": ["threadDiameter"],
+      "fields": ["threadDiameter", "holeAxis", "holeDiameter", "thickness"],
+      "one": { "en": "Repair Kit", "tr": "Tamir Takımı", "de": "Reparatursatz", "fr": "Kit de réparation", "es": "Kit de reparación", "it": "Kit di riparazione", "ru": "Ремкомплект", "ar": "طقم إصلاح" },
+      "many": { "en": "Repair Kits", "tr": "Tamir Takımları", "de": "Reparatursätze", "fr": "Kits de réparation", "es": "Kits de reparación", "it": "Kit di riparazione", "ru": "Ремкомплекты", "ar": "أطقم إصلاح" },
+      "slug": { "en": "repair-kits", "tr": "tamir-takimlari", "de": "reparatursaetze", "fr": "kits-de-reparation", "es": "kits-de-reparacion", "it": "kit-di-riparazione", "ru": "remkomplekty", "ar": "repair-kits" },
+      "legacy": ["repair-kit"]
+    },
+    {
+      "key": "cab-tilting-cylinder", "brand": "hydcab", "drawing": "2024/11/CABIN-TILTING-CYLINDER.png", "size": [],
+      "fields": [],
+      "one": { "en": "Cab Tilting Cylinder", "tr": "Kabin Kaldırma Silindiri", "de": "Fahrerhauskippzylinder", "fr": "Vérin de basculement de cabine", "es": "Cilindro de basculación de cabina", "it": "Cilindro ribaltamento cabina", "ru": "Цилиндр опрокидывания кабины", "ar": "أسطوانة رفع الكابينة" },
+      "many": { "en": "Cab Tilting Cylinders", "tr": "Kabin Kaldırma Silindirleri", "de": "Fahrerhauskippzylinder", "fr": "Vérins de basculement de cabine", "es": "Cilindros de basculación de cabina", "it": "Cilindri ribaltamento cabina", "ru": "Цилиндры опрокидывания кабины", "ar": "أسطوانات رفع الكابينة" },
+      "slug": { "en": "cab-tilting-cylinders", "tr": "kabin-kaldirma-silindirleri", "de": "fahrerhauskippzylinder", "fr": "verins-de-basculement-de-cabine", "es": "cilindros-de-basculacion-de-cabina", "it": "cilindri-ribaltamento-cabina", "ru": "cilindry-oprokidyvaniya-kabiny", "ar": "cab-tilting-cylinders" },
+      "legacy": ["cabin-tilting-cylinder", "kabin-kaldirma-silindiri", "kabinenhebezylinder", "cilindro-elevador-de-cabina", "cilindro-di-sollevamento-della-cabina"]
+    },
+    {
+      "key": "cab-tilting-pump", "brand": "hydcab", "drawing": "2024/11/CABIN-TILTING-PUMP.png", "size": [],
+      "fields": [],
+      "one": { "en": "Cab Tilting Pump", "tr": "Kabin Kaldırma Pompası", "de": "Fahrerhauskipppumpe", "fr": "Pompe de basculement de cabine", "es": "Bomba de basculación de cabina", "it": "Pompa ribaltamento cabina", "ru": "Насос опрокидывания кабины", "ar": "مضخة رفع الكابينة" },
+      "many": { "en": "Cab Tilting Pumps", "tr": "Kabin Kaldırma Pompaları", "de": "Fahrerhauskipppumpen", "fr": "Pompes de basculement de cabine", "es": "Bombas de basculación de cabina", "it": "Pompe ribaltamento cabina", "ru": "Насосы опрокидывания кабины", "ar": "مضخات رفع الكابينة" },
+      "slug": { "en": "cab-tilting-pumps", "tr": "kabin-kaldirma-pompalari", "de": "fahrerhauskipppumpen", "fr": "pompes-de-basculement-de-cabine", "es": "bombas-de-basculacion-de-cabina", "it": "pompe-ribaltamento-cabina", "ru": "nasosy-oprokidyvaniya-kabiny", "ar": "cab-tilting-pumps" },
+      "legacy": ["cabin-tilting-pump", "kabin-kaldirma-pompasi", "kabinenhebepumpe", "bomba-elevadora-de-cabina", "pompa-di-sollevamento-della-cabina"]
+    },
+    {
+      "key": "cab-latch", "brand": "hydcab", "drawing": "2024/11/CABIN-LATCH.png", "size": [],
+      "fields": [],
+      "one": { "en": "Cab Latch", "tr": "Kabin Kilidi", "de": "Fahrerhausverriegelung", "fr": "Verrou de cabine", "es": "Cierre de cabina", "it": "Chiusura cabina", "ru": "Замок кабины", "ar": "قفل الكابينة" },
+      "many": { "en": "Cab Latches", "tr": "Kabin Kilitleri", "de": "Fahrerhausverriegelungen", "fr": "Verrous de cabine", "es": "Cierres de cabina", "it": "Chiusure cabina", "ru": "Замки кабины", "ar": "أقفال الكابينة" },
+      "slug": { "en": "cab-latches", "tr": "kabin-kilitleri", "de": "fahrerhausverriegelungen", "fr": "verrous-de-cabine", "es": "cierres-de-cabina", "it": "chiusure-cabina", "ru": "zamki-kabiny", "ar": "cab-latches" },
+      "legacy": ["cabin-latch", "kabin-kilidi"]
+    },
+    {
+      "key": "steering-cylinder", "brand": "hydcab", "drawing": "2024/11/STEERING-CYLINDER-cphoto.png", "size": [],
+      "fields": [],
+      "one": { "en": "Steering Cylinder", "tr": "Direksiyon Yardımcı Silindiri", "de": "Lenkhilfezylinder", "fr": "Vérin d'assistance de direction", "es": "Cilindro de servodirección", "it": "Cilindro servosterzo", "ru": "Цилиндр гидроусилителя руля", "ar": "أسطوانة مساعد التوجيه" },
+      "many": { "en": "Steering Cylinders", "tr": "Direksiyon Yardımcı Silindirleri", "de": "Lenkhilfezylinder", "fr": "Vérins d'assistance de direction", "es": "Cilindros de servodirección", "it": "Cilindri servosterzo", "ru": "Цилиндры гидроусилителя руля", "ar": "أسطوانات مساعد التوجيه" },
+      "slug": { "en": "steering-cylinders", "tr": "direksiyon-yardimci-silindirleri", "de": "lenkhilfezylinder", "fr": "verins-de-direction", "es": "cilindros-de-servodireccion", "it": "cilindri-servosterzo", "ru": "cilindry-gidrousilitelya", "ar": "steering-cylinders" },
+      "legacy": ["steering-cylinder", "direksiyon-yardimci-silindiri", "lenkrad-hilfszylinder", "cilindro-de-asistencia-direccion", "cilindro-di-ausilio-allo-sterzo"]
+    },
+    {
+      "key": "axle-lift-cylinder", "brand": "hydcab", "drawing": "2024/11/AXLE-LIFT-CYLINDER.png", "size": [],
+      "fields": [],
+      "one": { "en": "Axle Lift Cylinder", "tr": "Dingil Kaldırma Silindiri", "de": "Achsliftzylinder", "fr": "Vérin de relevage d'essieu", "es": "Cilindro elevador de eje", "it": "Cilindro sollevamento asse", "ru": "Цилиндр подъёма оси", "ar": "أسطوانة رفع المحور" },
+      "many": { "en": "Axle Lift Cylinders", "tr": "Dingil Kaldırma Silindirleri", "de": "Achsliftzylinder", "fr": "Vérins de relevage d'essieu", "es": "Cilindros elevadores de eje", "it": "Cilindri sollevamento asse", "ru": "Цилиндры подъёма оси", "ar": "أسطوانات رفع المحور" },
+      "slug": { "en": "axle-lift-cylinders", "tr": "dingil-kaldirma-silindirleri", "de": "achsliftzylinder", "fr": "verins-de-relevage-d-essieu", "es": "cilindros-elevadores-de-eje", "it": "cilindri-sollevamento-asse", "ru": "cilindry-podema-osi", "ar": "axle-lift-cylinders" },
+      "legacy": ["axle-lift-cylinder"]
+    },
+    {
+      "key": "hydraulic-repair-kit", "brand": "hydcab", "drawing": "2024/11/HYDRAULIC-REPAIR-KIT.png", "size": [],
+      "fields": [],
+      "one": { "en": "Hydraulic Repair Kit", "tr": "Hidrolik Tamir Takımı", "de": "Hydraulik-Reparatursatz", "fr": "Kit de réparation hydraulique", "es": "Kit de reparación hidráulica", "it": "Kit di riparazione idraulica", "ru": "Гидравлический ремкомплект", "ar": "طقم إصلاح هيدروليكي" },
+      "many": { "en": "Hydraulic Repair Kits", "tr": "Hidrolik Tamir Takımları", "de": "Hydraulik-Reparatursätze", "fr": "Kits de réparation hydraulique", "es": "Kits de reparación hidráulica", "it": "Kit di riparazione idraulica", "ru": "Гидравлические ремкомплекты", "ar": "أطقم إصلاح هيدروليكية" },
+      "slug": { "en": "hydraulic-repair-kits", "tr": "hidrolik-tamir-takimlari", "de": "hydraulik-reparatursaetze", "fr": "kits-de-reparation-hydraulique", "es": "kits-de-reparacion-hidraulica", "it": "kit-riparazione-idraulica", "ru": "gidravlicheskie-remkomplekty", "ar": "hydraulic-repair-kits" },
+      "legacy": ["hydraulic-repair-kit"]
+    },
+    {
+      "key": "connection-components", "brand": "hydcab", "drawing": "2024/11/CONNECTION-COMPONENTS.png", "size": [],
+      "fields": [],
+      "one": { "en": "Connection Component", "tr": "Bağlantı Elemanı", "de": "Verbindungsteil", "fr": "Élément de raccordement", "es": "Componente de conexión", "it": "Componente di collegamento", "ru": "Соединительный элемент", "ar": "عنصر توصيل" },
+      "many": { "en": "Connection Components", "tr": "Bağlantı Elemanları", "de": "Verbindungsteile", "fr": "Éléments de raccordement", "es": "Componentes de conexión", "it": "Componenti di collegamento", "ru": "Соединительные элементы", "ar": "عناصر التوصيل" },
+      "slug": { "en": "connection-components", "tr": "baglanti-elemanlari", "de": "verbindungsteile", "fr": "elements-de-raccordement", "es": "componentes-de-conexion", "it": "componenti-di-collegamento", "ru": "soedinitelnye-elementy", "ar": "connection-components" },
+      "legacy": ["connection-components", "verbindungsausruestungen"]
+    },
+    {
+      "key": "clutch-kit", "brand": "revol", "drawing": "2024/11/CLUTCH-KIT.png", "size": ["diameter"],
+      "fields": ["diameter", "spline", "typeCode", "engine", "gearbox"],
+      "one": { "en": "Clutch Kit", "tr": "Debriyaj Seti", "de": "Kupplungssatz", "fr": "Kit d'embrayage", "es": "Kit de embrague", "it": "Kit frizione", "ru": "Комплект сцепления", "ar": "طقم القابض" },
+      "many": { "en": "Clutch Kits", "tr": "Debriyaj Setleri", "de": "Kupplungssätze", "fr": "Kits d'embrayage", "es": "Kits de embrague", "it": "Kit frizione", "ru": "Комплекты сцепления", "ar": "أطقم القابض" },
+      "slug": { "en": "clutch-kits", "tr": "debriyaj-setleri", "de": "kupplungssaetze", "fr": "kits-d-embrayage", "es": "kits-de-embrague", "it": "kit-frizione", "ru": "komplekty-scepleniya", "ar": "clutch-kits" },
+      "legacy": ["clutch-kit", "debriyaj-seti", "kupplungsset", "juego-de-embrague", "set-di-frizione"]
+    },
+    {
+      "key": "pressure-plate", "brand": "revol", "drawing": "2024/12/PP2-083-032-0000-baski-plakasi.png", "size": ["diameter"],
+      "fields": ["diameter", "typeCode", "engine", "gearbox"],
+      "one": { "en": "Clutch Pressure Plate", "tr": "Baskı Plakası", "de": "Kupplungsdruckplatte", "fr": "Mécanisme d'embrayage", "es": "Plato de presión", "it": "Spingidisco", "ru": "Корзина сцепления", "ar": "صحن ضغط القابض" },
+      "many": { "en": "Clutch Pressure Plates", "tr": "Baskı Plakaları", "de": "Kupplungsdruckplatten", "fr": "Mécanismes d'embrayage", "es": "Platos de presión", "it": "Spingidischi", "ru": "Корзины сцепления", "ar": "صحون ضغط القابض" },
+      "slug": { "en": "pressure-plates", "tr": "baski-plakalari", "de": "kupplungsdruckplatten", "fr": "mecanismes-d-embrayage", "es": "platos-de-presion", "it": "spingidischi", "ru": "korziny-scepleniya", "ar": "pressure-plates" },
+      "legacy": ["pressure-plate", "clutch-cover-assy", "baski-plakasi", "druckplatte", "placa-de-presion", "piastra-di-pressione"]
+    },
+    {
+      "key": "clutch-disc", "brand": "revol", "drawing": null, "size": ["diameter"],
+      "fields": ["diameter", "spline", "typeCode"],
+      "one": { "en": "Clutch Disc", "tr": "Debriyaj Diski", "de": "Kupplungsscheibe", "fr": "Disque d'embrayage", "es": "Disco de embrague", "it": "Disco frizione", "ru": "Диск сцепления", "ar": "قرص القابض" },
+      "many": { "en": "Clutch Discs", "tr": "Debriyaj Diskleri", "de": "Kupplungsscheiben", "fr": "Disques d'embrayage", "es": "Discos de embrague", "it": "Dischi frizione", "ru": "Диски сцепления", "ar": "أقراص القابض" },
+      "slug": { "en": "clutch-discs", "tr": "debriyaj-diskleri", "de": "kupplungsscheiben", "fr": "disques-d-embrayage", "es": "discos-de-embrague", "it": "dischi-frizione", "ru": "diski-scepleniya", "ar": "clutch-discs" },
+      "legacy": ["clutch-disc", "disk", "scheibe", "disco"]
+    },
+    {
+      "key": "release-bearing", "brand": "revol", "drawing": "2024/11/RELEASER.png", "size": [],
+      "fields": ["typeCode"],
+      "one": { "en": "Clutch Release Bearing", "tr": "Debriyaj Rulmanı", "de": "Ausrücklager", "fr": "Butée d'embrayage", "es": "Collarín de embrague", "it": "Cuscinetto reggispinta", "ru": "Выжимной подшипник", "ar": "رولمان القابض" },
+      "many": { "en": "Clutch Release Bearings", "tr": "Debriyaj Rulmanları", "de": "Ausrücklager", "fr": "Butées d'embrayage", "es": "Collarines de embrague", "it": "Cuscinetti reggispinta", "ru": "Выжимные подшипники", "ar": "رولمانات القابض" },
+      "slug": { "en": "release-bearings", "tr": "debriyaj-rulmanlari", "de": "ausruecklager", "fr": "butees-d-embrayage", "es": "collarines-de-embrague", "it": "cuscinetti-reggispinta", "ru": "vyzhimnye-podshipniki", "ar": "release-bearings" },
+      "legacy": ["releaser", "releaser-conact", "releaser-conact-tr", "releaser-conact-de", "releaser-conact-es", "releaser-conact-it", "releaser-conact-ru", "rulman", "kugellager", "rodamiento", "cuscinetto"]
+    },
+    {
+      "key": "attachment-kit", "brand": "revol", "drawing": "2024/11/ATTACHMENT-KIT.png", "size": [],
+      "fields": ["typeCode"],
+      "one": { "en": "Mounting Kit", "tr": "Montaj Kiti", "de": "Montagesatz", "fr": "Kit de montage", "es": "Kit de montaje", "it": "Kit di montaggio", "ru": "Монтажный комплект", "ar": "طقم تركيب" },
+      "many": { "en": "Mounting Kits", "tr": "Montaj Kitleri", "de": "Montagesätze", "fr": "Kits de montage", "es": "Kits de montaje", "it": "Kit di montaggio", "ru": "Монтажные комплекты", "ar": "أطقم تركيب" },
+      "slug": { "en": "mounting-kits", "tr": "montaj-kitleri", "de": "montagesaetze", "fr": "kits-de-montage", "es": "kits-de-montaje", "it": "kit-di-montaggio", "ru": "montazhnye-komplekty", "ar": "mounting-kits" },
+      "legacy": ["attachment-kit", "montaj-kiti", "montageset", "kit-de-montaje", "kit-di-montaggio"]
+    }
+  ],
+  "fields": {
+    "tube": { "unit": "mm", "label": { "en": "Tube diameter", "tr": "Boru çapı", "de": "Rohrdurchmesser", "fr": "Diamètre du tube", "es": "Diámetro del tubo", "it": "Diametro tubo", "ru": "Диаметр трубы", "ar": "قطر الأنبوب" } },
+    "length": { "unit": "mm", "label": { "en": "Length", "tr": "Uzunluk", "de": "Länge", "fr": "Longueur", "es": "Longitud", "it": "Lunghezza", "ru": "Длина", "ar": "الطول" } },
+    "cone": { "unit": "mm", "label": { "en": "Cone Ø small / large", "tr": "Konik çap küçük / büyük", "de": "Konus Ø klein / groß", "fr": "Cône Ø petit / grand", "es": "Cono Ø menor / mayor", "it": "Cono Ø minore / maggiore", "ru": "Конус Ø меньший / больший", "ar": "قطر المخروط صغير / كبير" } },
+    "thread": { "unit": "", "label": { "en": "Thread", "tr": "Diş ölçüsü", "de": "Gewinde", "fr": "Filetage", "es": "Rosca", "it": "Filettatura", "ru": "Резьба", "ar": "مقاس السن" } },
+    "outerDiameter": { "unit": "mm", "label": { "en": "Outer diameter", "tr": "Dış çap", "de": "Außendurchmesser", "fr": "Diamètre extérieur", "es": "Diámetro exterior", "it": "Diametro esterno", "ru": "Наружный диаметр", "ar": "القطر الخارجي" } },
+    "holeAxis": { "unit": "mm", "label": { "en": "Hole centre distance", "tr": "Delik ekseni", "de": "Lochabstand", "fr": "Entraxe des trous", "es": "Distancia entre agujeros", "it": "Interasse fori", "ru": "Межосевое расстояние отверстий", "ar": "المسافة بين مراكز الثقوب" } },
+    "holeDiameter": { "unit": "mm", "label": { "en": "Hole diameter", "tr": "Delik çapı", "de": "Lochdurchmesser", "fr": "Diamètre du trou", "es": "Diámetro del agujero", "it": "Diametro foro", "ru": "Диаметр отверстия", "ar": "قطر الثقب" } },
+    "thickness": { "unit": "mm", "label": { "en": "Thickness", "tr": "Kalınlık", "de": "Dicke", "fr": "Épaisseur", "es": "Espesor", "it": "Spessore", "ru": "Толщина", "ar": "السماكة" } },
+    "threadDiameter": { "unit": "mm", "label": { "en": "Thread diameter", "tr": "Diş çapı", "de": "Gewindedurchmesser", "fr": "Diamètre du filetage", "es": "Diámetro de rosca", "it": "Diametro filettatura", "ru": "Диаметр резьбы", "ar": "قطر السن" } },
+    "diameter": { "unit": "mm", "label": { "en": "Diameter", "tr": "Çap", "de": "Durchmesser", "fr": "Diamètre", "es": "Diámetro", "it": "Diametro", "ru": "Диаметр", "ar": "القطر" } },
+    "spline": { "unit": "", "label": { "en": "Hub spline", "tr": "Göbek dişi", "de": "Nabenverzahnung", "fr": "Cannelures du moyeu", "es": "Estriado del cubo", "it": "Scanalatura mozzo", "ru": "Шлицы ступицы", "ar": "تخديد المحور" } },
+    "typeCode": { "unit": "", "label": { "en": "Type code", "tr": "Tip kodu", "de": "Typcode", "fr": "Code type", "es": "Código de tipo", "it": "Codice tipo", "ru": "Код типа", "ar": "رمز النوع" } },
+    "engine": { "unit": "", "label": { "en": "Engine", "tr": "Motor", "de": "Motor", "fr": "Moteur", "es": "Motor", "it": "Motore", "ru": "Двигатель", "ar": "المحرك" } },
+    "gearbox": { "unit": "", "label": { "en": "Gearbox", "tr": "Şanzıman", "de": "Getriebe", "fr": "Boîte de vitesses", "es": "Caja de cambios", "it": "Cambio", "ru": "Коробка передач", "ar": "علبة التروس" } }
+  }
+}

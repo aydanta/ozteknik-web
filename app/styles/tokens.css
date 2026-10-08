@@ -1,0 +1,104 @@
+/*
+ * Özteknik tasarım token'ları — şartname §"Kurumsal tasarım sistemi", açık tema değerleri.
+ * 08.10.2026: Furkan'ın isteğiyle koyu tema kaldırıldı; site ve panel yalnız açık tema (şartnamede koyu varsayılandı).
+ * Tek vurgu rengi kuralı: turkuaz #18A99E (dolgular: buton, rozet, çubuk). Beyaz zeminde metin olarak
+ * turkuaz 2,9:1 kalır; bu yüzden bağlantı/ikon metni koyu turkuaz --accent-hi (≥ 4,5:1).
+ * Alt marka renkleri yalnızca marka alanlarında ve rozetlerde.
+ */
+:root {
+  /* zemin ve yüzey */
+  --bg: #f3f5f6;
+  --bg-2: #e9edef;
+  --card: #ffffff;
+  --card-2: #f7f9fa;
+  --line: rgb(13 17 22 / 0.1);
+  --line-strong: rgb(13 17 22 / 0.18);
+
+  /* metin (kontrast ≥ 4,5:1) */
+  --text: #0d1116;
+  --text-2: #4b5661;
+  --text-off: #5c6771; /* #e9edef üzerinde 4,9:1 */
+
+  /* marka */
+  --accent: #18a99e;
+  --accent-hi: #0b7068; /* metin, ikon, odak — açık zeminde ≥ 4,5:1 */
+  --accent-hover: #2bc0b4; /* birincil buton üzerine gelme */
+  --accent-glow: #2fd9c9; /* yalnız dekoratif ışık/çizgi */
+  --navy: #28455a;
+  --on-accent: #052522;
+
+  /* alt markalar — yalnız rozet ve marka alanı */
+  --egerot: #e3262b;
+  --hydcab: #e3262b;
+  --hydcab-2: #000000;
+  --revol: #f39200;
+  --revol-2: #7c8288;
+
+  /* durum */
+  --ok: #12805c;
+  --warn: #9a5b00;
+  --err: #c6302f;
+
+  /* tipografi */
+  --font-display: var(--f-archivo), var(--f-inter), var(--f-inter-cyr), system-ui, sans-serif;
+  --font-text: var(--f-inter), var(--f-inter-cyr), system-ui, sans-serif;
+  --font-mono: var(--f-mono), ui-monospace, 'SFMono-Regular', Menlo, monospace;
+  --display-wdth: 112;
+
+  --fs-d1: clamp(46px, 8.4vw, 128px);
+  --fs-d2: clamp(42px, 6.4vw, 96px);
+  --fs-d3: clamp(38px, 5vw, 72px);
+  --fs-d4: clamp(32px, 3.9vw, 56px);
+  --fs-h1: clamp(30px, 2.8vw, 40px);
+  --fs-h2: clamp(26px, 2.3vw, 32px);
+  --fs-h3: 24px;
+  --fs-body: 16px;
+  --fs-body-2: 15px;
+  --fs-small: 13px;
+  --fs-code: 13px;
+
+  /* boşluk (4'ün katları) */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 24px;
+  --s-6: 32px;
+  --s-7: 48px;
+  --s-8: 64px;
+  --s-9: 96px;
+  --s-10: 160px;
+  --section: clamp(96px, 11vw, 170px);
+  --gutter: clamp(16px, 4vw, 48px);
+  --max: 1440px;
+
+  /* köşe */
+  --r-field: 10px;
+  --r-card: 18px;
+  --r-pill: 999px;
+
+  /* derinlik (3 seviye) */
+  --shadow-1: 0 1px 2px rgb(13 17 22 / 0.06), 0 0 0 1px var(--line);
+  --shadow-2: 0 8px 24px rgb(13 17 22 / 0.08), 0 0 0 1px var(--line);
+  --shadow-3: 0 24px 64px rgb(13 17 22 / 0.14), 0 0 0 1px var(--line-strong);
+
+  /* hareket */
+  --t-fast: 150ms;
+  --t-mid: 300ms;
+  --t-slow: 600ms;
+  --ease: cubic-bezier(0.2, 0.7, 0.1, 1);
+
+  --header-h: 72px;
+  color-scheme: light;
+}
+
+
+/* Arapça: IBM Plex Sans Arabic; Archivo Arapça glif taşımaz */
+:lang(ar) {
+  --font-display: var(--f-arabic), var(--f-inter), system-ui, sans-serif;
+  --font-text: var(--f-arabic), var(--f-inter), system-ui, sans-serif;
+}
+/* Rusça: Archivo Kiril taşımaz → başlıklar Inter */
+:lang(ru) {
+  --font-display: var(--f-inter), var(--f-inter-cyr), system-ui, sans-serif;
+}

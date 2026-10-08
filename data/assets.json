@@ -1,0 +1,223 @@
+{
+ "brand/ozteknik-logo": {
+  "file": "/brand/ozteknik-logo.png",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/08/ozteknik-logo.png",
+  "width": 205,
+  "height": 21,
+  "alpha": true
+ },
+ "brand/ozteknik-logo-white": {
+  "file": "/brand/ozteknik-logo-white.png",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/11/ozteknik-beyaz-logo.png",
+  "width": 205,
+  "height": 21,
+  "alpha": true
+ },
+ "brand/ozteknik-favicon": {
+  "file": "/brand/ozteknik-favicon.png",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/08/ozteknik-fav.png",
+  "width": 29,
+  "height": 29,
+  "alpha": true
+ },
+ "brand/egerot-logo": {
+  "file": "/brand/egerot-logo.png",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/08/egerot-logo.png",
+  "width": 300,
+  "height": 100,
+  "alpha": true
+ },
+ "brand/hydcab-logo": {
+  "file": "/brand/hydcab-logo.png",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/08/hydcab-logo.png",
+  "width": 300,
+  "height": 100,
+  "alpha": true
+ },
+ "brand/revol-logo": {
+  "file": "/brand/revol-logo.png",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/08/revol-logo.png",
+  "width": 300,
+  "height": 100,
+  "alpha": true
+ },
+ "drawings/torque-rod": {
+  "file": "/drawings/torque-rod.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/TORQUE-ROD.png",
+  "width": 527,
+  "height": 391,
+  "alpha": true
+ },
+ "drawings/v-stay": {
+  "file": "/drawings/v-stay.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/V-Stay.png",
+  "width": 432,
+  "height": 397,
+  "alpha": true
+ },
+ "drawings/tie-rod": {
+  "file": "/drawings/tie-rod.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/TIE-ROD-ASSY.png",
+  "width": 495,
+  "height": 322,
+  "alpha": true
+ },
+ "drawings/rod-end": {
+  "file": "/drawings/rod-end.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/ROD-END.png",
+  "width": 336,
+  "height": 365,
+  "alpha": true
+ },
+ "drawings/stabilizer-link": {
+  "file": "/drawings/stabilizer-link.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/STABILIZER.png",
+  "width": 338,
+  "height": 343,
+  "alpha": true
+ },
+ "drawings/cab-tilting-cylinder": {
+  "file": "/drawings/cab-tilting-cylinder.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/CABIN-TILTING-CYLINDER.png",
+  "width": 844,
+  "height": 593,
+  "alpha": true
+ },
+ "drawings/cab-tilting-pump": {
+  "file": "/drawings/cab-tilting-pump.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/CABIN-TILTING-PUMP.png",
+  "width": 353,
+  "height": 352,
+  "alpha": true
+ },
+ "drawings/cab-latch": {
+  "file": "/drawings/cab-latch.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/CABIN-LATCH.png",
+  "width": 448,
+  "height": 530,
+  "alpha": true
+ },
+ "drawings/steering-cylinder": {
+  "file": "/drawings/steering-cylinder.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/11/STEERING-CYLINDER-cphoto.png",
+  "width": 1057,
+  "height": 725,
+  "alpha": true
+ },
+ "drawings/axle-lift-cylinder": {
+  "file": "/drawings/axle-lift-cylinder.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/AXLE-LIFT-CYLINDER.png",
+  "width": 874,
+  "height": 547,
+  "alpha": true
+ },
+ "drawings/hydraulic-repair-kit": {
+  "file": "/drawings/hydraulic-repair-kit.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/HYDRAULIC-REPAIR-KIT.png",
+  "width": 1018,
+  "height": 600,
+  "alpha": true
+ },
+ "drawings/connection-components": {
+  "file": "/drawings/connection-components.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/CONNECTION-COMPONENTS.png",
+  "width": 375,
+  "height": 374,
+  "alpha": true
+ },
+ "drawings/attachment-kit": {
+  "file": "/drawings/attachment-kit.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/ATTACHMENT-KIT.png",
+  "width": 1546,
+  "height": 763,
+  "alpha": true
+ },
+ "drawings/clutch-kit": {
+  "file": "/drawings/clutch-kit.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/CLUTCH-KIT.png",
+  "width": 1500,
+  "height": 699,
+  "alpha": true
+ },
+ "drawings/pressure-plate": {
+  "file": "/drawings/pressure-plate.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/12/PP2-083-032-0000-baski-plakasi.png",
+  "width": 1367,
+  "height": 857,
+  "alpha": true
+ },
+ "drawings/release-bearing": {
+  "file": "/drawings/release-bearing.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/RELEASER.png",
+  "width": 1568,
+  "height": 745,
+  "alpha": true
+ },
+ "img/revol-clutch-kit-render": {
+  "file": "/img/revol-clutch-kit-render.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/01/clutch-kit-transparan-siyah-1.png",
+  "width": 1492,
+  "height": 784,
+  "alpha": true
+ },
+ "img/egerot-er0108-torque-rod": {
+  "file": "/img/egerot-er0108-torque-rod.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/08/er0108.webp",
+  "width": 534,
+  "height": 412,
+  "alpha": false
+ },
+ "img/hydcab-steering-cylinder-exterior": {
+  "file": "/img/hydcab-steering-cylinder-exterior.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/11/gorsel2.png",
+  "width": 3000,
+  "height": 621,
+  "alpha": true
+ },
+ "img/hydcab-steering-cylinder-section": {
+  "file": "/img/hydcab-steering-cylinder-section.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/11/gorsel1.png",
+  "width": 3000,
+  "height": 621,
+  "alpha": true
+ },
+ "img/revol-clutch-disc": {
+  "error": "bulunamadı",
+  "stem": "1-11"
+ },
+ "img/sustainability-rooftop-solar": {
+  "file": "/img/sustainability-rooftop-solar.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2024/08/sustainability-photo-1.png",
+  "width": 800,
+  "height": 533,
+  "alpha": false
+ },
+ "docs/iatf-16949-2016-certificate": {
+  "file": "/docs/iatf-16949-2016-certificate.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/09/IATF-16949-2016.jpg",
+  "width": 1000,
+  "height": 1548,
+  "alpha": false
+ },
+ "docs/iso-9001-2015-certificate": {
+  "file": "/docs/iso-9001-2015-certificate.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/09/ISO-9001-2015.jpg",
+  "width": 1029,
+  "height": 1578,
+  "alpha": false
+ },
+ "docs/iso-14064-1-verification": {
+  "file": "/docs/iso-14064-1-verification.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/09/ISO-14064-1.jpg",
+  "width": 1116,
+  "height": 1579,
+  "alpha": false
+ },
+ "docs/eac-certificate": {
+  "file": "/docs/eac-certificate.webp",
+  "source": "https://ozteknikoto.com/wp-content/uploads/2025/09/eac-sertifika.jpg",
+  "width": 1500,
+  "height": 2161,
+  "alpha": false
+ }
+}
